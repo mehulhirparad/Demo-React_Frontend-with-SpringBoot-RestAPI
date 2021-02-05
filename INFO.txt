@@ -1,0 +1,1 @@
+This project only demostrate how to frontend(REACT) connect with backend(SPRING BOOT) using REST API 
